@@ -1,0 +1,6 @@
+There have to be some classes in this, to make it like in Java a bit...
+But that's only for my functions and the parseInt() one.
+
+Hmm, I just coded some functions and I think there's no need for any
+classes but when I come to some extra functions for classes
+(and that will take a while, I guess), I will obviously need them.

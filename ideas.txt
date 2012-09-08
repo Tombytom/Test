@@ -1,0 +1,15 @@
+Java-Funktionen, die nachzubilden sind:
+
+-toUpperCase()
+-toLowerCase()
+-Integer.parseInt()
+
+
+-----------------------------------------
+eigene Funktionen, die zu schreiben sind:
+-stringLength()
+-searchCharacter()
+-searchCharacters()  (wie searchCharacter, nur dass weitergesucht wird und die Rückgabe deshalb als Integer erfolgt)
+-searchString()  (in einem Array aus Strings suchen)
+-searchNumber()  (in Array aus Nummern suchen)
+-searchDigit()  (in Zahl oder Array aus Nummern suchen)
