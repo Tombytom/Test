@@ -1,3 +1,0 @@
-As copyright in all files:
-
- *  Copyright 2011 Tom Kaiser. All rights reserved.
